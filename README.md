@@ -63,7 +63,7 @@ I manually tested the project. I didn't have time to write any automated tests, 
 - Note: The use of AI tools is not discouraged, but they should be used judiciously.
 -->
 
-- Next.js documentation - used to learn the framework and understand the high level concepts of the framework
+- Next.js documentation - used to learn the framework and understand the high level concepts of it
 - Tailwind documentation - reference for styling
 - Google - miscellaneous questions, particularly around Next.js
 - ChatGPT - used to help as starting point for Next.js boilerplate. I also used it when I ran into issues with the differences of newer and older versions of Next.js
