@@ -4,7 +4,7 @@
 
 ### Technologies
 
-I wanted to use this as an opportunity to learn Next.js, which I have not used before. I spent some time outside of this project to learn get a basic understanding of Next.js. If I used what I am most familiar with, I would have used Angular.
+I wanted to use this as an opportunity to learn Next.js, which I have not used before. I spent some time outside of this project to get a basic understanding of Next.js. If I used what I am most familiar with, I would have used Angular.
 
 - Next.js
 - React
