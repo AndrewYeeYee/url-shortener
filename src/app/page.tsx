@@ -33,7 +33,7 @@ export default function Home() {
         type="text"
       ></input>
       <button
-        className="bg-violet-500 rounded-md px-2 disabled:opacity-50"
+        className="bg-violet-500 rounded-md px-2 disabled:opacity-50 hover:bg-violet-800"
         onClick={shorten}
         disabled={!url}
       >
@@ -43,7 +43,7 @@ export default function Home() {
         <div className="flex gap-2">
           <div>{shortUrl}</div>
           <button
-            className="bg-violet-500 rounded-md px-2"
+            className="bg-violet-500 rounded-md px-2 hover:bg-violet-800"
             onClick={() => {
               navigator.clipboard.writeText(shortUrl);
             }}
